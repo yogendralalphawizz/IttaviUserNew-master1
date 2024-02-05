@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318596366704",
+    "project_id": "ittavi-97d10",
+    "storage_bucket": "ittavi-97d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318596366704:android:420feff098590990cdcfb5",
+        "android_client_info": {
+          "package_name": "com.ittavi.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbW8fDeRD5QrxIy2H0BwQUQylg7MyJjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
